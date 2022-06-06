@@ -20,7 +20,6 @@ public class Lesson3App {
         Box<Apple> appleBox1 = new Box<>();
         Box<Apple> appleBox2 = new Box<>();
         Box<Orange> orangeBox1 = new Box<>();
-        Box<Fruit> fruitBox = new Box<>();
 
         appleBox1.add(new Apple(), new Apple(), new Apple(), new Apple());
         appleBox2.add(new Apple(), new Apple(), new Apple());
